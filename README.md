@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ks5814
 - 👀 I’m interested in Homeassistant 
-- 🌱 I’m currently learning how to work with i
+- 🌱 I’m currently learning how to work with it
 - 💞️ I’m looking to collaborate on Integration of solar topics
 
 <!---
